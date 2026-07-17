@@ -1,4 +1,4 @@
-# Hi, I'm Jason Paquette 👋
+# Hi, I'm Jason Paquette 
 
 **AWS Cloud & Infrastructure Engineer** — automating production cloud at scale.
 
@@ -9,23 +9,23 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I'm a Cloud Engineer with **5 years of experience** designing, deploying, and operating production AWS infrastructure — with hands-on experience building and maintaining **SOC 2–compliant environments**.
 
-- 🏗️ **Infrastructure as Code first** — multi-account AWS provisioned with Terraform: VPCs, EC2, least-privilege IAM, Lambda, and security groups under AWS Organizations
-- 🔁 **CI/CD everywhere** — multi-environment pipelines in GitLab CI/CD and GitHub Actions, with OIDC federation and ephemeral per-PR preview environments
-- 🔒 **Security-minded** — CIS Foundations Benchmark hardening, Zero Trust Network Access (ZTNA) design and deployment, Prowler evidence scanning, DevSecOps in CI/CD
-- 🛰️ **Full lifecycle ownership** — disaster recovery architecture, monitoring and observability (CloudWatch, Grafana), site-to-site VPN, cost optimization
-- ⚡ **Full-stack when it counts** — serverless Next.js/TypeScript apps on AWS with SST, so I can take a system from infrastructure to shipped product
+- **Infrastructure as Code first** — multi-account AWS provisioned with Terraform: VPCs, EC2, least-privilege IAM, Lambda, and security groups under AWS Organizations
+- **CI/CD everywhere** — multi-environment pipelines in GitLab CI/CD and GitHub Actions, with OIDC federation and ephemeral per-PR preview environments
+- **Security-minded** — CIS Foundations Benchmark hardening, Zero Trust Network Access (ZTNA) design and deployment, Prowler evidence scanning, DevSecOps in CI/CD
+- **Full lifecycle ownership** — disaster recovery architecture, monitoring and observability (CloudWatch, Grafana), site-to-site VPN, cost optimization
+- **Full-stack when it counts** — serverless Next.js/TypeScript apps on AWS with SST, so I can take a system from infrastructure to shipped product
 
-📍 Lowell, MA · 🎓 AWS Certified Solutions Architect – Associate · eJPT
+Lowell, MA · 🎓 AWS Certified Solutions Architect – Associate · eJPT
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔧 Open Source Contributions
+### Open Source Contributions
 
 **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** — Contributor (6 merged PRs) · ⭐ 107
 KEDA external scaler that autoscales Kubernetes GPU workloads from native NVML metrics.
@@ -62,7 +62,7 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -93,18 +93,18 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 ---
 
-## 💼 Currently
+## Currently
 
 **Cloud Engineer @ Direct IT** (Waltham, MA) — designing, deploying, and managing AWS infrastructure for multiple clients in parallel: Terraform-provisioned multi-account environments, ZTNA rollout for a SOC 2–compliant client environment, highly available disaster recovery, and cost-tuned architectures.
 
-## 📜 Certifications
+## Certifications
 
 - **AWS Certified Solutions Architect – Associate** (2024)
 - **eLearnSecurity Junior Penetration Tester (eJPT)** (2023)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jasonp2323&show_icons=true&theme=default&hide_border=true" alt="Jason's GitHub stats" height="165" />
@@ -113,4 +113,4 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 ---
 
-💬 **Open to Cloud Engineering, DevOps, and Platform Engineering opportunities.** The fastest way to reach me is [jasonp@jpcloudengineering.com](mailto:jasonp@jpcloudengineering.com) or the contact form at [jpcloudengineering.com](https://jpcloudengineering.com).
+**Open to Cloud Engineering, DevOps, and Platform Engineering opportunities.** The fastest way to reach me is [jasonp@jpcloudengineering.com](mailto:jasonp@jpcloudengineering.com) or the contact form at [jpcloudengineering.com](https://jpcloudengineering.com).
