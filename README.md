@@ -64,51 +64,32 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 ## 🧰 Tech Stack
 
-**Cloud Platforms**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,ansible,githubactions,gitlab&perline=8" alt="Cloud & IaC" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,go,py,bash,ts,nextjs,grafana&perline=8" alt="Containers, languages & observability" />
+  </a>
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure AKS](https://img.shields.io/badge/Azure%20AKS-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP GKE](https://img.shields.io/badge/GCP%20GKE-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-
-**Infrastructure as Code & CI/CD**
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)
-![SST](https://img.shields.io/badge/SST-E27152?style=flat&logo=sst&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
-
-**Containers & Orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat&logo=amazonecs&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20GPU%20Operator-76B900?style=flat&logo=nvidia&logoColor=white)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-**Security & Compliance**
-
-![SOC 2](https://img.shields.io/badge/SOC%202-Compliance-2E7D32?style=flat)
-![CIS](https://img.shields.io/badge/CIS-Benchmarks-005288?style=flat)
-![ZTNA](https://img.shields.io/badge/Zero%20Trust-ZTNA-8E24AA?style=flat)
-![Prowler](https://img.shields.io/badge/Prowler-Security%20Scanning-1A237E?style=flat)
-![CodeQL](https://img.shields.io/badge/CodeQL-DevSecOps-2088FF?style=flat&logo=github&logoColor=white)
-
-**Monitoring & Observability**
-
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/KEDA-326CE5?style=flat&logoColor=white" alt="KEDA" />
+  <img src="https://img.shields.io/badge/NVIDIA_GPU_Operator-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA GPU Operator" />
+  <img src="https://img.shields.io/badge/SST-E27152?style=flat&logoColor=white" alt="SST" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white" alt="Pulumi" />
+  <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logoColor=white" alt="ECS Fargate" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logoColor=white" alt="CloudWatch" />
+  <br />
+  <img src="https://img.shields.io/badge/SOC_2-Compliance-2E7D32?style=flat" alt="SOC 2" />
+  <img src="https://img.shields.io/badge/CIS-Benchmarks-005288?style=flat" alt="CIS Benchmarks" />
+  <img src="https://img.shields.io/badge/Zero_Trust-ZTNA-8E24AA?style=flat" alt="ZTNA" />
+  <img src="https://img.shields.io/badge/Prowler-Security_Scanning-1A237E?style=flat" alt="Prowler" />
+  <img src="https://img.shields.io/badge/CodeQL-DevSecOps-2088FF?style=flat&logo=github&logoColor=white" alt="CodeQL" />
+</p>
 
 ---
 
