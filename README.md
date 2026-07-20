@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-jpcloudengineering.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://jpcloudengineering.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Paquette-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-paquette-2a865b181/)
 [![Email](https://img.shields.io/badge/Email-jasonp%40jpcloudengineering.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jasonp@jpcloudengineering.com)
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/faf8e558-673b-4db1-880c-81ac0efeb0fc)
 
 ---
 
@@ -66,7 +66,7 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,ansible,githubactions,gitlab&perline=8" alt="Cloud & IaC" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,java,githubactions,gitlab&perline=8" alt="Cloud & IaC" />
   </a>
 </p>
 <p align="center">
