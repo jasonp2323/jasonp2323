@@ -76,13 +76,18 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <br />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/KEDA-326CE5?style=flat&logoColor=white" alt="KEDA" />
   <img src="https://img.shields.io/badge/NVIDIA_GPU_Operator-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA GPU Operator" />
   <img src="https://img.shields.io/badge/SST-E27152?style=flat&logoColor=white" alt="SST" />
   <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white" alt="Pulumi" />
-  <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logoColor=white" alt="ECS Fargate" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logoColor=white" alt="CloudWatch" />
   <br />
   <img src="https://img.shields.io/badge/SOC_2-Compliance-2E7D32?style=flat" alt="SOC 2" />
   <img src="https://img.shields.io/badge/CIS-Benchmarks-005288?style=flat" alt="CIS Benchmarks" />
