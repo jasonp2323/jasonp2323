@@ -105,8 +105,8 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 ## Certifications
 
+- **HashiCorp Certified: Terraform Associate (004)** (2026)
 - **AWS Certified Solutions Architect – Associate** (2024)
-- **eLearnSecurity Junior Penetration Tester (eJPT)** (2023)
 
 ---
 
