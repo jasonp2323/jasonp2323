@@ -28,18 +28,18 @@ Lowell, MA · AWS Certified Solutions Architect – Associate · HashiCorp Certi
 
 ### Open Source Contributions
 
-**[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** — Contributor (6 merged PRs) · ⭐ 107
+**[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** — Contributor (7 merged PRs) · ⭐ 112
 KEDA external scaler that autoscales Kubernetes GPU workloads from native NVML metrics.
 - Provisioned GPU-enabled Kubernetes clusters across **EKS, AKS, and GKE** with Terraform — custom VPC networking, GPU node pools, and NVIDIA GPU Operator/KEDA via Helm; resolved a GKE-specific NVIDIA container toolkit CNI failure
 - Built a pre-built **Grafana dashboard** for GPU fleet visibility (utilization, VRAM, temperature, power draw)
 - Added table-driven **Go unit tests** for multi-GPU metric aggregation; authored the architecture docs and diagrams
 
-**[gpu-mcp-server](https://github.com/pmady/gpu-mcp-server)** — Contributor (4 merged PRs) · ⭐ 12
+**[gpu-mcp-server](https://github.com/pmady/gpu-mcp-server)** — Contributor (4 merged PRs) · ⭐ 14
 MCP server giving AI agents real-time access to NVIDIA GPU metrics via NVML.
 - Hardened the supply chain with **CodeQL scanning and OpenSSF Scorecard** CI workflows
 - Automated Docker image publishing on release via GitHub Actions
 
-### 🛠️ Builds
+### Personal Projects
 
 **[TransformMyNotes](https://github.com/jasonp2323/transformmynotes)** · [Live →](https://transformmynotes.com)
 Mobile-first web app that digitizes handwritten study notes — image capture, AI transcription via **Amazon Bedrock**, a Notion-style block editor, and a full-text searchable notebook.
@@ -53,12 +53,13 @@ Real-time crypto signal-intelligence platform ingesting social chatter from X, F
 - AWS account hardened to **CIS Foundations Benchmark v6.0** via Terraform; CI/CD through GitHub Actions with short-lived OIDC credentials and per-PR preview environments
 
 **[compliance-cis-6.0](https://github.com/jasonp2323/compliance-cis-6.0)**
-Dedicated Terraform project implementing the CIS AWS Foundations Benchmark v6.0 — CloudTrail, IAM Access Analyzer, default security group lockdown, and scheduled Prowler evidence scans.
+Dedicated Terraform project implementing the CIS AWS Foundations Benchmark v6.0 — CloudTrail, IAM Access Analyzer, default security group lockdown based on Prowler evidence scans.
 
 **[jpcloudengineering.com](https://jpcloudengineering.com)**
 This portfolio itself is a cloud engineering project — statically exported Next.js on a private S3 bucket behind CloudFront with Origin Access Control, a serverless contact form (API Gateway + ARM64 Lambda + SES), automated daily cost digests via EventBridge/Cost Explorer, and **four reusable Terraform modules** managing the whole stack, deployed by a tag-driven GitLab CI/CD pipeline with OIDC federation.
 
-**Client sites** — [Dorval Construction](https://dorvalconstruction.com) · [Saudade Café](https://saudadecafe.cafe)
+### Client Sites
+[Dorval Construction](https://dorvalconstruction.com) · [Saudade Café](https://saudadecafe.cafe)
 Production Next.js sites on S3 + CloudFront with serverless contact forms (API Gateway/Lambda/SES), Cloudflare DNS, and headless CMS (Sanity) where content management is needed.
 
 ---
