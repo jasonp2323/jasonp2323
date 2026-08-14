@@ -1,6 +1,6 @@
 # Hi, I'm Jason Paquette 
 
-**AWS Cloud & Infrastructure Engineer** — automating production cloud at scale.
+**Senior Cloud Engineer** — automating production cloud at scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jpcloudengineering.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://jpcloudengineering.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Paquette-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-paquette-2a865b181/)
