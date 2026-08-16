@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Cloud Engineer with **5 years of experience** designing, deploying, and operating production AWS infrastructure — with hands-on experience building and maintaining **SOC 2–compliant environments**.
+I'm a Cloud Engineer with 8 years of experience designing, deploying, and operating production AWS infrastructure — with hands-on experience building and maintaining SOC 2–compliant environments.
 
 - **Infrastructure as Code first** — multi-account AWS provisioned with Terraform: VPCs, EC2, least-privilege IAM, Lambda, and security groups under AWS Organizations
 - **CI/CD everywhere** — multi-environment pipelines in GitLab CI/CD and GitHub Actions, with OIDC federation and ephemeral per-PR preview environments
