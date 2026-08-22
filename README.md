@@ -12,12 +12,14 @@
 
 ## About Me
 
-I'm a Cloud Engineer with 8 years of experience designing, deploying, and operating production AWS infrastructure — with hands-on experience building and maintaining SOC 2–compliant environments.
+I'm a Senior Cloud Engineer with 8 years of experience designing, deploying, and operating production AWS infrastructure — with hands-on experience building and maintaining SOC 2–compliant environments.
 
 - **Infrastructure as Code first** — multi-account AWS provisioned with Terraform: VPCs, EC2, least-privilege IAM, Lambda, and security groups under AWS Organizations
+- **Operations, not just builds** — five years of after-hours on-call, a hybrid fleet of 30+ Windows and Linux servers under patching, monitoring, and access control, and incident response on production client environments
 - **CI/CD everywhere** — multi-environment pipelines in GitLab CI/CD and GitHub Actions, with OIDC federation and ephemeral per-PR preview environments
 - **Security-minded** — CIS Foundations Benchmark hardening, Zero Trust Network Access (ZTNA) design and deployment, Prowler evidence scanning, DevSecOps in CI/CD
-- **Full lifecycle ownership** — disaster recovery architecture, monitoring and observability (CloudWatch, Grafana), site-to-site VPN, cost optimization
+- **Kubernetes** — GPU-enabled clusters across EKS, AKS, and GKE provisioned with Terraform; NVIDIA GPU Operator and KEDA via Helm; currently studying for the CKA
+- **Full lifecycle ownership** — disaster recovery architecture, observability (CloudWatch, Grafana, OpenTelemetry), site-to-site VPN, cost optimization on a $200K–$250K annual budget
 - **Full-stack when it counts** — serverless Next.js/TypeScript apps on AWS with SST, so I can take a system from infrastructure to shipped product
 
 Lowell, MA · AWS Certified Solutions Architect – Associate · HashiCorp Certified: Terraform Associate (004)
