@@ -19,7 +19,7 @@ I'm a Senior Cloud Engineer with 8 years of experience designing, deploying, and
 - **CI/CD everywhere** — multi-environment pipelines in GitLab CI/CD and GitHub Actions, with OIDC federation and ephemeral per-PR preview environments
 - **Security-minded** — CIS Foundations Benchmark hardening, Zero Trust Network Access (ZTNA) design and deployment, Prowler evidence scanning, DevSecOps in CI/CD
 - **Kubernetes** — GPU-enabled clusters across EKS, AKS, and GKE provisioned with Terraform; NVIDIA GPU Operator and KEDA via Helm; currently studying for the CKA
-- **Full lifecycle ownership** — disaster recovery architecture, observability (CloudWatch, Grafana, OpenTelemetry), site-to-site VPN, cost optimization on a $200K–$250K annual budget
+- **Full lifecycle ownership** — disaster recovery architecture, observability (CloudWatch, Grafana, OpenTelemetry), site-to-site VPN, cost optimization on a $300k+ annual budget
 - **Full-stack when it counts** — serverless Next.js/TypeScript apps on AWS with SST, so I can take a system from infrastructure to shipped product
 
 Lowell, MA · AWS Certified Solutions Architect – Associate · HashiCorp Certified: Terraform Associate (004)
