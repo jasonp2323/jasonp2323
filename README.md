@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jpcloudengineering.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://jpcloudengineering.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Paquette-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-paquette-2a865b181/)
-[![Email](https://img.shields.io/badge/Email-jpaquette2323%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jpaquette2323@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jasonp%40jpcloudengineering.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jasonp@jpcloudengineering.com)
 [![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/faf8e558-673b-4db1-880c-81ac0efeb0fc)
 [![HashiCorp Certified](https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20%28004%29-7B42BC?style=flat&logo=terraform&logoColor=white)](https://www.credly.com/badges/ffbdf673-1f0c-4ccd-9cf8-4f15429acc7f/public_url)
 
