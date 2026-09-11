@@ -21,11 +21,10 @@ jobs:
             while read -r repo; do
               gh repo clone "$repo" -- --depth 1 --quiet < /dev/null
             done
-          total=$(cloc . --json --quiet \
-            --not-match-f='(package-lock\.json|yarn\.lock|pnpm-lock\.yaml)$' | jq '.SUM.code')
-          human=$(numfmt --to=si "$total")
-          curl -sL -o "$GITHUB_WORKSPACE/loc.svg" \
-            "https://img.shields.io/badge/lines_of_code-${human}-blue"
+          cloc . --json --quiet \
+            --not-match-f='(package-lock\.json|yarn\.lock|pnpm-lock\.yaml)$' > /tmp/cloc.json
+          python3 "$GITHUB_WORKSPACE/scripts/loc_card.py" /tmp/cloc.json "$(ls -1 | wc -l)" \
+            > "$GITHUB_WORKSPACE/loc.svg"
 
       - name: Commit
         run: |
