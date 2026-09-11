@@ -121,5 +121,3 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 </p>
 
 ---
-
-**Open to Cloud Engineering, DevOps, and Platform Engineering opportunities.** The fastest way to reach me is [jasonp@jpcloudengineering.com](mailto:jasonp@jpcloudengineering.com) or the contact form at [jpcloudengineering.com](https://jpcloudengineering.com).
