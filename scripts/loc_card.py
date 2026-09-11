@@ -38,8 +38,12 @@ if rest:
 
 W, PAD = 495, 25
 BAR_W = W - 2 * PAD
-rows = (len(shown) + 1) // 2
-H = 140 + rows * 24
+COLS = 3
+LEG_Y0, ROW_H = 134, 22
+rows = -(-len(shown) // COLS)
+# Keep the card close to 195 tall so it scales down no more than the
+# GitHub stats card it sits beside in the README.
+H = LEG_Y0 + (rows - 1) * ROW_H + 17
 
 out = []
 a = out.append
@@ -73,11 +77,11 @@ for name, code in shown:
     x += w
 a("</g>")
 
-# Legend, two columns
+# Legend, three columns
 for i, (name, code) in enumerate(shown):
-    col, row = i % 2, i // 2
-    lx = PAD + col * (BAR_W // 2 + 10)
-    ly = 142 + row * 24
+    col, row = i % COLS, i // COLS
+    lx = PAD + col * (BAR_W // COLS)
+    ly = LEG_Y0 + row * ROW_H
     label = escape(NAMES.get(name, name))
     a(f'<circle cx="{lx + 5}" cy="{ly - 4}" r="5" fill="{COLORS.get(name, "#8b949e")}"/>')
     a(f'<text x="{lx + 16}" y="{ly}"><tspan class="lang">{label}</tspan>'
