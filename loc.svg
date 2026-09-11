@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="236" viewBox="0 0 495 236" role="img" aria-label="130,800 lines of code">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.bg{fill:#ffffff;stroke:#d0d7de}
+.title{font-size:18px;font-weight:600;fill:#2f80ed}
+.total{font-size:34px;font-weight:700;fill:#1f2328}
+.sub{font-size:13px;fill:#59636e}
+.lang{font-size:12px;fill:#1f2328}
+.pct{font-size:12px;fill:#59636e}
+.track{fill:#eff2f5}
+@media (prefers-color-scheme:dark){
+.bg{fill:#0d1117;stroke:#30363d}.title{fill:#58a6ff}.total,.lang{fill:#e6edf3}
+.sub,.pct{fill:#9198a1}.track{fill:#21262d}}
+</style>
+<rect class="bg" x="0.5" y="0.5" rx="6" width="494" height="235"/>
+<text class="title" x="25" y="38">Lines of code</text>
+<text class="total" x="25" y="84">130,800</text>
+<text class="sub" x="470" y="82" text-anchor="end">across 23 repositories</text>
+<clipPath id="bar"><rect x="25" y="102" width="445" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)"><rect class="track" x="25" y="102" width="445" height="8"/>
+<rect x="25.00" y="102" width="256.19" height="8" fill="#3178c6"/>
+<rect x="280.69" y="102" width="62.02" height="8" fill="#083fa1"/>
+<rect x="342.22" y="102" width="25.87" height="8" fill="#844FBA"/>
+<rect x="367.59" y="102" width="16.32" height="8" fill="#3572A5"/>
+<rect x="383.41" y="102" width="15.55" height="8" fill="#663399"/>
+<rect x="398.47" y="102" width="14.21" height="8" fill="#f34b7d"/>
+<rect x="412.18" y="102" width="58.32" height="8" fill="#8b949e"/>
+</g>
+<circle cx="30" cy="138" r="5" fill="#3178c6"/>
+<text x="41" y="142"><tspan class="lang">TypeScript</tspan><tspan class="pct" dx="6">57.5%</tspan></text>
+<circle cx="262" cy="138" r="5" fill="#083fa1"/>
+<text x="273" y="142"><tspan class="lang">Markdown</tspan><tspan class="pct" dx="6">13.8%</tspan></text>
+<circle cx="30" cy="162" r="5" fill="#844FBA"/>
+<text x="41" y="166"><tspan class="lang">HCL</tspan><tspan class="pct" dx="6">5.7%</tspan></text>
+<circle cx="262" cy="162" r="5" fill="#3572A5"/>
+<text x="273" y="166"><tspan class="lang">Python</tspan><tspan class="pct" dx="6">3.6%</tspan></text>
+<circle cx="30" cy="186" r="5" fill="#663399"/>
+<text x="41" y="190"><tspan class="lang">CSS</tspan><tspan class="pct" dx="6">3.4%</tspan></text>
+<circle cx="262" cy="186" r="5" fill="#f34b7d"/>
+<text x="273" y="190"><tspan class="lang">C++</tspan><tspan class="pct" dx="6">3.1%</tspan></text>
+<circle cx="30" cy="210" r="5" fill="#8b949e"/>
+<text x="41" y="214"><tspan class="lang">Other</tspan><tspan class="pct" dx="6">13.0%</tspan></text>
+</svg>
