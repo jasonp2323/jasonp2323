@@ -120,4 +120,6 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jasonp2323&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
 
+![Lines of code](metrics.plugin.lines.svg)
+
 ---
