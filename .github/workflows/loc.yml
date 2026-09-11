@@ -1,0 +1,35 @@
+name: Lines of code
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  loc:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count lines
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          sudo apt-get update && sudo apt-get install -y cloc
+          mkdir -p /tmp/repos && cd /tmp/repos
+          gh repo list "$GITHUB_REPOSITORY_OWNER" --source --no-archived --limit 1000 \
+            --json nameWithOwner -q '.[].nameWithOwner' |
+            while read -r repo; do
+              gh repo clone "$repo" -- --depth 1 --quiet < /dev/null
+            done
+          total=$(cloc . --json --quiet \
+            --not-match-f='(package-lock\.json|yarn\.lock|pnpm-lock\.yaml)$' | jq '.SUM.code')
+          human=$(numfmt --to=si "$total")
+          curl -sL -o "$GITHUB_WORKSPACE/loc.svg" \
+            "https://img.shields.io/badge/lines_of_code-${human}-blue"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add loc.svg
+          git diff --cached --quiet || { git commit -m "Update lines of code"; git push; }
