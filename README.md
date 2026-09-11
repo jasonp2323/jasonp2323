@@ -117,9 +117,7 @@ Production Next.js sites on S3 + CloudFront with serverless contact forms (API G
 
 <p>
   <img src="https://github-stats-extended.vercel.app/api?username=jasonp2323&show_icons=true&theme=default&hide_border=true" alt="Jason's GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jasonp2323&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="loc.svg" alt="Lines of code" height="165" />
 </p>
-
-![Lines of code](loc.svg)
 
 ---
